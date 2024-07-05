@@ -3,10 +3,7 @@ import './Navbar.css'
 
 const Navbar = () => {
   return (
-    <div className='nav'>
-      <img src="icons8-love-64.png" alt="" />
-      
-    </div>
+      <img src="src/assets/icons8-love-64.png" alt="" />
   )
 }
 
